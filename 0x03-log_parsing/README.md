@@ -4,8 +4,6 @@
 
 This project parses web server logs and generates metrics from the data.
 
-# 0x03-log_parsing
-
 ## 0-stats.py
 
 This script parses web server logs from stdin and generates metrics from the log data.
